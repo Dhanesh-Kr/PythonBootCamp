@@ -1,6 +1,7 @@
 from game_data import data
 import random
 import art
+"""Testing"""
 print(art.logo)
 is_game_over=False
 point=0
